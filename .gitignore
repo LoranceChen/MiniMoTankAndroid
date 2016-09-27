@@ -1,0 +1,8 @@
+.DS_Store
+Library
+Temp
+*.sln
+*.csproj
+obj
+*.apk
+game/Libraries/libiPhone-lib.a
