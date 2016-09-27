@@ -1,8 +1,26 @@
+#Mac
 .DS_Store
-Library
-Temp
-*.sln
+
+#Unity structure
+Temp/
+obj/
+Library/
+
+#Editor
 *.csproj
-obj
+*.pidb
+*.unityproj
+*.userprefs
+*.sln
+*.suo
+*.svd
+
+#large file(download by yourself)
+libiPhone-lib.a
+
+#tmp file
+*.dll
+*.exe
 *.apk
-game/Libraries/libiPhone-lib.a
+*.swp
+
